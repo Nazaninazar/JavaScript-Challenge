@@ -15,11 +15,11 @@ I know I can handle this...!  The planet Earth needs to know what we have found!
 
 ### Level 1: Automatic Table and Date Search (Required)
 
-* Created a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Created a basic HTML web page or use the [index.html](StarterCode/index.html) file provided 
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table to my web page and then added new rows of data for each UFO sighting.
 
-  * Maked sure I had a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+* Made sure I had a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
 * Used a date form in my HTML document and wrote JavaScript code that would listen for events and search through the `date/time` column to find rows that match user input.
 
